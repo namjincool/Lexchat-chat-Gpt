@@ -30,7 +30,7 @@ AWS CLI를 설치를 하고 , 이후 CDK를 사용하기 위해 Node.js를 설�
 백엔드 환경을 구성해줍니다
 
 ```java
-npm install -g aws-cdk를 실행합니다
+npm install -g aws-cdk
 ```
 
 ### 전체 코드 다운로드 및 CDK 배포 준비
