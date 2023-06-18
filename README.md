@@ -26,7 +26,7 @@
 
 ### AWS CLI , CDK 설치 방법 
 
-AWS CLI를 설치를 하고 , 이후 CDK를 사용하기 위해 Node.js를 설치해서
+AWS CLI를 [설치](https://awscli.amazonaws.com/AWSCLIV2.msi)를 하고 , 이후 CDK를 사용하기 위해 Node.js를 설치해서
 백엔드 환경을 구성해줍니다
 
 ```java
